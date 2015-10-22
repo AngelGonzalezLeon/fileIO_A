@@ -1,0 +1,13 @@
+Average characters per word: 4.30824
+Total number of words: 279
+7 words of length 1
+56 words of length 2
+56 words of length 3
+56 words of length 4
+37 words of length 5
+19 words of length 6
+23 words of length 7
+7 words of length 8
+9 words of length 9
+6 words of length 10
+3 words of length 11 or longer
